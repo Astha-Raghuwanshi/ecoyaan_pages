@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecoyaan_pages/static/css/main.b069127b.chunk.css",
+    "main.js": "/ecoyaan_pages/static/js/main.4a539ee3.chunk.js",
+    "main.js.map": "/ecoyaan_pages/static/js/main.4a539ee3.chunk.js.map",
+    "runtime-main.js": "/ecoyaan_pages/static/js/runtime-main.7fad1890.js",
+    "runtime-main.js.map": "/ecoyaan_pages/static/js/runtime-main.7fad1890.js.map",
+    "static/css/2.4ee5ca5c.chunk.css": "/ecoyaan_pages/static/css/2.4ee5ca5c.chunk.css",
+    "static/js/2.6d6ea4da.chunk.js": "/ecoyaan_pages/static/js/2.6d6ea4da.chunk.js",
+    "static/js/2.6d6ea4da.chunk.js.map": "/ecoyaan_pages/static/js/2.6d6ea4da.chunk.js.map",
+    "index.html": "/ecoyaan_pages/index.html",
+    "precache-manifest.5fbbbfae5aefe8ac7b0f71a8e583e1d2.js": "/ecoyaan_pages/precache-manifest.5fbbbfae5aefe8ac7b0f71a8e583e1d2.js",
+    "service-worker.js": "/ecoyaan_pages/service-worker.js",
+    "static/css/2.4ee5ca5c.chunk.css.map": "/ecoyaan_pages/static/css/2.4ee5ca5c.chunk.css.map",
+    "static/css/main.b069127b.chunk.css.map": "/ecoyaan_pages/static/css/main.b069127b.chunk.css.map",
+    "static/js/2.6d6ea4da.chunk.js.LICENSE.txt": "/ecoyaan_pages/static/js/2.6d6ea4da.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/ecoyaan_pages/static/media/pexels-alena-koval-886521.fa37179b.jpg",
+    "static/media/HeroSection3.css": "/ecoyaan_pages/static/media/pexels-karolina-grabowska-4202926.fa01e82a.jpg",
+    "static/media/HeroSection2.css": "/ecoyaan_pages/static/media/pexels-ready-made-3850512.2e738407.jpg",
+    "static/media/HeroSection.css": "/ecoyaan_pages/static/media/pexels-scott-webb-305821.a0cc5537.jpg",
+    "static/media/slick-theme.css": "/ecoyaan_pages/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fad1890.js",
+    "static/css/2.4ee5ca5c.chunk.css",
+    "static/js/2.6d6ea4da.chunk.js",
+    "static/css/main.b069127b.chunk.css",
+    "static/js/main.4a539ee3.chunk.js"
+  ]
+}
